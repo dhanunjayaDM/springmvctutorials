@@ -1,0 +1,9 @@
+package com.lara.controller;
+
+public class HelloController {
+	public String welcome()
+	{
+		return "home";
+	}
+
+}

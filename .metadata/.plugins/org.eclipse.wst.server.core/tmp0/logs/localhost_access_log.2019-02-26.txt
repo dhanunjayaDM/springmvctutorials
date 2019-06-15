@@ -1,0 +1,7 @@
+127.0.0.1 - - [26/Feb/2019:11:46:35 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:11:47:31 +0530] "GET /SpringMVCHibernateCRUD/ HTTP/1.1" 200 1400
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:11:47:43 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:11:48:03 +0530] "GET /SpringMVCHibernateCRUD/states HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:11:48:40 +0530] "GET /SpringMVCHibernateCRUD/states/ HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:11:48:44 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [26/Feb/2019:15:11:39 +0530] "GET /SpringMVCHibernateCRUD/states/ HTTP/1.1" 200 316

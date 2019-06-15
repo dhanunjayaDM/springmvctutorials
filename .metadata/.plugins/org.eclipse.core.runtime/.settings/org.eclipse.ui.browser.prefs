@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/springcontroller/|*|http\://localhost\:8080/Spring-Tiles/index|*|http\://localhost\:8080/Spring-Tiles/|*|http\://localhost\:8080/SpringTiles/contact.html|*|http\://localhost\:8080/SpringTiles/|*|http\://localhost\:8080/SpringTiles/hello.html|*|http\://localhost\:8080/springmvcproject/register|*|http\://localhost\:8080/springmvcproject/home.jsp|*|http\://localhost\:8080/springmvcproject/login|*|http\://localhost\:8080/springmvcproject/|*|http\://localhost\:8080/doj/saveSurvey.do|*|http\://localhost\:8080/doj/viewAllSurvey.do|*|http\://localhost\:8080/doj/|*|http\://localhost\:8080/SpringMVCHibernateCRUD/|*|

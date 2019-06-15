@@ -1,0 +1,18 @@
+package com.lara.controller;
+import org.springframework.stereotype.Controller;
+@Controller
+public class HelloController {
+	
+	
+	@RequestMapping(vaue="/")
+	public String welcome()
+	{
+		return "home";
+	}
+	@RequestMapping(vaue="/welcome")
+	public String greet()
+	{
+		return "welcome";
+	}
+
+}
